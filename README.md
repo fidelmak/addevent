@@ -1,15 +1,12 @@
-Perfect 🔥 — here’s a **captivating, professional, and reviewer-friendly `README.md`** for your Flutter app **AddEvent**.
-It covers: description, features, tech stack, storage method, BLoC state management, theming, and how to build/run — plus a **highlighted Google Drive APK link** section.
 
----
 
-```markdown
+
 # 📅 AddEvent — Smart Event Manager App
 
 AddEvent is a modern Flutter application designed to help users **create, edit, and manage personal events or tasks** with ease.  
 It’s built with **Flutter + BLoC (Cubit)** for clean architecture, **SharedPreferences** for local storage, and supports both **Dark and Light themes** — giving you a smooth and responsive experience on any device.
 
----
+
 
 ## 🚀 Features
 
@@ -113,7 +110,7 @@ If not, follow [Flutter installation guide](https://docs.flutter.dev/get-started
 ## 📦 Download APK
 
 You can try the app instantly by downloading the latest version here 👇
-🔗 **[Download AddEvent APK on Google Drive](https://drive.google.com/file/d/your-apk-id/view?usp=sharing)**
+🔗 **[Download AddEvent APK on Google Drive](https://drive.google.com/file/d/1WF2b727uex1xcH9AL5-pNR3iHsRI3JUo/view?usp=sharing)**
 
 > *(Replace with your real Google Drive link — reviewers will click this to install directly.)*
 
@@ -153,4 +150,3 @@ AddEvent is a sleek, efficient, and user-friendly event management app that demo
 
 
 
-Would you like me to also create a **shorter “Play Store–style description”** version (for use in app submission or Play Store listing)?
