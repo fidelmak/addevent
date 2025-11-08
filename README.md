@@ -79,7 +79,7 @@ If not, follow [Flutter installation guide](https://docs.flutter.dev/get-started
    ```bash
    git clone https://github.com/yourusername/addevent.git
    cd addevent
-````
+
 
 2. **Install dependencies**
 
@@ -128,7 +128,8 @@ You can try the app instantly by downloading the latest version here 👇
 
 | Light Mode | Dark Mode |
 | ----------- | ---------- |
-| ![Light Mode](assets/images/light_mode.png) | ![Dark Mode](assets/images/dark_mode.png) |
+| <img src="assets/images/light_mode.png" width="300" height="600" alt="Light Mode Screenshot"> | <img src="assets/images/dark_mode.png" width="300" height="600" alt="Dark Mode Screenshot"> |
+
 
 
 
