@@ -1,4 +1,4 @@
-// task_state.dart
+
 import 'package:addevent/models/event_card_model.dart';
 import 'package:equatable/equatable.dart';
 
