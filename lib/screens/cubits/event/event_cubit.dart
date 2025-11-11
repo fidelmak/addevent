@@ -14,7 +14,7 @@ class EventsCubit extends Cubit<EventState> {
   final _uuid = const Uuid();
   static const _storageKey = 'saved_events';
 
-  // 🔹 Load events from SharedPreferences
+  //  Load events from SharedPreferences
   Future<void> _loadEvents() async {
     final prefs = await SharedPreferences.getInstance();
     final savedData = prefs.getStringList(_storageKey);
@@ -28,7 +28,7 @@ class EventsCubit extends Cubit<EventState> {
     }
   }
 
-  // 🔹 Save current events to SharedPreferences
+  // Save current events to SharedPreferences
   Future<void> _saveEvents(List<EventModel> events) async {
     final prefs = await SharedPreferences.getInstance();
     final encoded = events.map((e) => e.toJson()).toList();
